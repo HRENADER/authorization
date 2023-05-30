@@ -38,7 +38,7 @@
         android:layout_width="@dimen/_340"
         android:layout_height="@dimen/_85"
         android:gravity="center"
-        android:text="@string/download_all_the_designs_resource_available_on_the_uilover_channel_for_free"
+        android:text="@string/download_all_the_designs"
         android:textColor="@color/white"
         android:textSize="@dimen/textSize"
         app:layout_constraintEnd_toEndOf="parent"
